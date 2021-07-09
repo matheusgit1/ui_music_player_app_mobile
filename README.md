@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Template Mobile para aplicações de plaeyers de audios e musicas
+Template Mobile para aplicações de players de audios e musicas
 
 
 ## Layout mobile
