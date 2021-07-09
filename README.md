@@ -3,18 +3,15 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+Template Mobile para aplicações de plaeyers de audios e musicas
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
 ## Layout mobile
 ![Mobile 1](https://github.com/matheusgit1/ui_music_player_app_mobile/blob/main/Images_Example/intial_screen-removebg-preview.png) ![Mobile 2](https://github.com/matheusgit1/ui_music_player_app_mobile/blob/main/Images_Example/secondary_screen-removebg-preview.png)
 
 ![Mobile 3](https://github.com/matheusgit1/ui_music_player_app_mobile/blob/main/Images_Example/player_screen-removebg-preview.png)
 
-## Layout web
+# Layout web
 
 # Tecnologias utilizadas
 - Expo cli
